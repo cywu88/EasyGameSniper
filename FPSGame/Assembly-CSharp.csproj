@@ -289,6 +289,8 @@
     <Compile Include="Assets\LockstepEngineUnityExt\NavMesh\PathFinding.Editor\LVectorExtension.cs" />
     <Compile Include="Assets\LockstepEngineUnityExt\NavMesh\PathFinding.Editor\NavMeshTool.cs" />
     <Compile Include="Assets\Scripts\HelloEcs.cs" />
+    <Compile Include="Assets\Snaker\AppConfig.cs" />
+    <Compile Include="Assets\Snaker\AppMain.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/EasyGameSniper/FPSGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
